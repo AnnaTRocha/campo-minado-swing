@@ -6,6 +6,6 @@
   
 </div>
 
-Esse projeto utiliza a [framework](https://www.devmedia.com.br/frameworks-e-padroes-de-projeto/1111#:~:text=Um%20framework%20descreve%20a%20arquitetura,aplicações%20de%20um%20mesmo%20domínio.) 
+Esse projeto é uma atualização de outro repositório ([Campo minado](https://github.com/AnnaTRocha/campo-minado-java)) e utiliza a [framework](https://www.devmedia.com.br/frameworks-e-padroes-de-projeto/1111#:~:text=Um%20framework%20descreve%20a%20arquitetura,aplicações%20de%20um%20mesmo%20domínio.) 
 [Swing](https://www.devmedia.com.br/java-swing-conheca-os-componentes-jtextfield-e-jformattedtextfield/30981), e foi feito para fins de estudo da linguagem Java 
 e conceitos de Observer.
